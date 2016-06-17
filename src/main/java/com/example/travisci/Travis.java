@@ -7,6 +7,6 @@ public class Travis
 {
     public int testMethod1()
     {
-        return 1;
+        return 2;
     }
 }
